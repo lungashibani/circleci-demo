@@ -16,7 +16,7 @@ jobs:
   build:
     executor:
       name: win/default
-    working_directory: C:\Users\circleci\project\HelloWorld
+    working_directory: C:\Users\SHIBL\OneDrive - Robert Walters\Desktop\circleci-demo\HelloWorld
     steps:
       - checkout:
           path: C:\Users\circleci\project
